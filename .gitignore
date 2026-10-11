@@ -1,0 +1,24 @@
+# MATLAB autosave and temporary files
+*.asv
+*.autosave
+*.m~
+*.bak
+*.tmp
+*.log
+
+# MATLAB generated build artifacts
+*.mex*
+slprj/
+codegen/
+
+# Local scratch files
+untitled.m
+Copy_of_*.m
+
+# Regenerable MATLAB figure binaries; keep exported PNG figures
+fig/*.fig
+
+# Operating-system metadata
+.DS_Store
+Thumbs.db
+desktop.ini
